@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: NIKSHITHA S</h3>
-<h3>Register Number : 2122242040220</h3>
+<h3>Register Number : 212224040220</h3>
 
 ### AIM:
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
